@@ -1,0 +1,8 @@
+git --version  -  giti versian stugelu hamar;
+git config --global user.name "ArturHovhannisyan"     -    global username taly;
+git config --global user.email "arturcragravorum@gmail.com"   -    global useri mail taly;
+git init   -   stexcum e git repositoria;
+ls    -    cuyc e talis repoi mej arka fayleri cucaky;
+git status    -    cuyc e talis repoi mej katarvac popoxutyunnery branche ev ayl info;
+git add   -    fayli anun avelacnum e fayly staging area;
+git --all  ,  git -A , git add .   ,     -    sranq bolory miangamic popoxvac faylern avelacnum en staging area;
